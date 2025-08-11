@@ -1,0 +1,21 @@
+{
+    "tests_by_mangled_function_name": {
+        "voucher.x_validar_voucher": [
+            "test_voucher.py::test_validar_voucher_igual500",
+            "test_voucher.py::test_validar_voucher_menor50",
+            "test_voucher.py::test_validar_voucher_maior500",
+            "test_voucher.py::test_validar_voucher_igual50",
+            "test_voucher.py::test_validar_voucher_menor500",
+            "test_voucher.py::test_validar_voucher_maior50"
+        ]
+    },
+    "duration_by_test": {
+        "test_voucher.py::test_validar_voucher_menor50": 0.0001341560000582831,
+        "test_voucher.py::test_validar_voucher_igual50": 8.829900002638169e-05,
+        "test_voucher.py::test_validar_voucher_maior50": 7.76179999775195e-05,
+        "test_voucher.py::test_validar_voucher_menor500": 7.713800005149096e-05,
+        "test_voucher.py::test_validar_voucher_igual500": 7.714699995631236e-05,
+        "test_voucher.py::test_validar_voucher_maior500": 9.180600000036065e-05
+    },
+    "stats_time": 0.4920504000000001
+}
